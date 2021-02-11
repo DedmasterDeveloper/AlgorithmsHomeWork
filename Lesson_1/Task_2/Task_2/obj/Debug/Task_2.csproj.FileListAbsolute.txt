@@ -1,0 +1,6 @@
+C:\Users\misha\source\repos\AlgorithmsHomeWork\Lesson_1\Task_2\Task_2\bin\Debug\Task_2.exe.config
+C:\Users\misha\source\repos\AlgorithmsHomeWork\Lesson_1\Task_2\Task_2\bin\Debug\Task_2.exe
+C:\Users\misha\source\repos\AlgorithmsHomeWork\Lesson_1\Task_2\Task_2\bin\Debug\Task_2.pdb
+C:\Users\misha\source\repos\AlgorithmsHomeWork\Lesson_1\Task_2\Task_2\obj\Debug\Task_2.csproj.CoreCompileInputs.cache
+C:\Users\misha\source\repos\AlgorithmsHomeWork\Lesson_1\Task_2\Task_2\obj\Debug\Task_2.exe
+C:\Users\misha\source\repos\AlgorithmsHomeWork\Lesson_1\Task_2\Task_2\obj\Debug\Task_2.pdb
